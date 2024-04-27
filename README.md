@@ -11,7 +11,7 @@ Hello, fellow coders! Welcome and greetings to all,
 
 I am a dedicated software engineer with a passion for crafting exceptional digital experiences, encompassing both front-end and back-end development. My expertise lies in seamlessly integrating design, functionality, and innovative solutions to create comprehensive and impactful digital products.
 
-My approach is driven by a strong foundation in creative problem-solving, strategic thinking, and a deep understanding of the software development lifecycle. I am proficient in a wide range of technologies, including JavaScript, Python, React, and Node.js, allowing me to adapt to diverse project requirements and deliver optimal results.
+My approach is driven by a strong foundation in creative problem-solving, strategic thinking, and a deep understanding of the software development lifecycle. I am proficient in a wide range of technologies, including JavaScript, Python and React, allowing me to adapt to diverse project requirements and deliver optimal results.
 
 My core belief is that user experience is paramount.  I strive to develop intuitive and engaging interfaces, coupled with robust and scalable backend systems, to ensure a seamless and enjoyable user journey. 
 
